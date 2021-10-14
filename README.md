@@ -10,7 +10,7 @@ I am still working on my portfolio as a front-end developer, but you can see my 
 🙋‍♂️자기소개
 About me https://www.notion.so/a2674b78d6354b65a624640be6c0727b
 
-🧑‍🎨디자인 포트폴리오
+🎨디자인 포트폴리오
 Design Portfolio https://soulty321.myportfolio.com/
 
 🦁멋쟁이 사자처럼 사전 강의
