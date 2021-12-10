@@ -11,8 +11,5 @@ I am still working on my portfolio as a front-end developer, but you can see my 
 About me https://www.notion.so/a2674b78d6354b65a624640be6c0727b
 
 🎨디자인 포트폴리오
-Design Portfolio https://soulty321.myportfolio.com/
-
-🦁멋쟁이 사자처럼 사전 강의
-https://chocolate-bottom-3ac.notion.site/a1891b4068554773b970152ac16c2352
+Design Portfolio https://soulty321.myportfolio.com
 
