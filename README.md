@@ -3,19 +3,14 @@
 </div>  
   
 
-### <div align="center">안녕하세요. 문호균입니다.</div>  
+### 안녕하세요. 프론트엔드 개발자를 꿈꾸고 있는 문호균입니다. 
+😀 아직 프론트엔드로서의 포트폴리오는 제작중이지만, 아래 링크에서 저의 다른 작업들을 보실 수 있습니다.  
   
 
-- 🔭 제 깃허브 주소는 [여기입니다](https://github.com/Moonhokyun)  
+😀 まだフロントエンドとしてのポートフォリオは製作中ですが, 下記のリンクで私の他の作業をご覧になれます。  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+😀 I am still working on my portfolio as a front-end developer, but you can see my other work at the link below.  
   
 
 <br/>  
@@ -74,9 +69,20 @@
 
 
 ## Connect with me  
+<div align="center">
 <a href="https://github.com/https://github.com/Moonhokyun" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hokyun-moon-a4a515221" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/muno_art/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.behance.net/https://soulty321.myportfolio.com" target="_blank">
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
+</div>  
   
 
 <br/>  
@@ -106,13 +112,7 @@
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+
 <br />
 
 ----
