@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/1CqW51-SZIwYGxbi9waiLqJUQldXYhTKt/view?usp=sharing" align="center" style="width: 100%" />
+<img src="https://ibb.co/80GhLfD" align="center" style="width: 100%" />
 </div>  
   
 
