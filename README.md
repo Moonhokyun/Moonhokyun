@@ -24,8 +24,8 @@
 |              | Bootstrap |   Tailwind  | Illustrator |
 |              | Photoshop |   Adobe XD  |    Figma    |
 |              |  InDesign | Premire Pro |             |
-| ⭐⭐ intermediate  |    Git    |   Chart.js  |   Node.js   |
-| ⭐ beginner |   React   |             |             |
+| ⭐⭐★ intermediate  |    Git    |   Chart.js  |   Node.js   |
+| ⭐★★ beginner |   React   |             |             |
 
 ## Connect with me  
 <div align="leftr">
